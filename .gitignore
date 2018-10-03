@@ -1,0 +1,10 @@
+# mblog/.gitignore
+
+Include
+Lib
+Scripts
+tcl
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
